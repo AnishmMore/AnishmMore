@@ -59,8 +59,15 @@ Reduced startup time on GCP through image caching and Kubernetes optimizations.
 Engineered a search platform with BERT and Elasticsearch for efficient patent exploration.
 
 ## Let's Connect
-### Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/anish-more99/)
+### Feel free to reach out to me on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-more99/)
 
+## My Github Stats:
+![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnishmMore&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnishmMore&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishmMore&layout=compact)
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=AnishmMore.AnishmMore&left_color=gray&right_color=blue&left_text=Visitors)
 
 
 <!--
