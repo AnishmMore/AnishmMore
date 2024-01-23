@@ -10,7 +10,7 @@ I'm a Computer Engineering Master's Student, Aspiring Data Engineer, and Softwar
 
 🤝 Looking to collaborate on innovative tech projects and keen to learn new technologies.
 
-🎯 2023 Goals: Contribute to more open-source projects and master DSA.
+🎯 2024 Goals: Contribute to more open-source projects and master DSA.
 
 ⚡ Fun fact: I'm intrigued by the intersection of development and operations, leading me to improve custonm GPT-3.5 Turbo efficiency in a recent internship.
 
