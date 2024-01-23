@@ -71,9 +71,13 @@ Engineered a search platform with BERT and Elasticsearch for efficient patent ex
 ## My Github Stats:
 ![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnishmMore&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnishmMore&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishmMore&layout=compact)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AnishmMore.AnishmMore)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AnishmMore.AnishmMore">
+</p>
+
 
 <!--
 **AnishmMore/AnishmMore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
