@@ -1,11 +1,17 @@
 ### Hello, I'm Anish More - aka AnishmMore 👨‍💻
 
 I'm a Computer Engineering Master's Student, Aspiring Data Engineer, and Software Developer!
+
 🎓 Pursuing my Master's in Computer Engineering with a focus on Cloud Computing and Big Data Management at UC Riverside.
+
 💻 I recently worked on a 3D Road Network Visualization project using Azure and Google Earth.
+
 📚 Enhancing my knowledge in Data Structures and Algorithms for future opportunities.
+
 🤝 Looking to collaborate on innovative tech projects and keen to learn new technologies.
+
 🎯 2023 Goals: Contribute to more open-source projects and master DSA.
+
 ⚡ Fun fact: I'm intrigued by the intersection of development and operations, leading me to improve custonm GPT-3.5 Turbo efficiency in a recent internship.
 
 ## 🚀 Skills and Technologies:
