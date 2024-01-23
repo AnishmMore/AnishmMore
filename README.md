@@ -67,8 +67,7 @@ Engineered a search platform with BERT and Elasticsearch for efficient patent ex
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnishmMore&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishmMore&layout=compact)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=AnishmMore.AnishmMore&left_color=gray&right_color=blue&left_text=Visitors)
-
+![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=%24.count&url=https%3A%2F%2Fapi.visitorbadge.io%2Fapi%2Fcombined?path=AnishmMore.AnishmMore&style=flat-square)
 
 <!--
 **AnishmMore/AnishmMore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
